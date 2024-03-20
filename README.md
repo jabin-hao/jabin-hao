@@ -1,53 +1,27 @@
-<!-- 定义 CSS 样式以使内容居中并对齐 -->
-<style>
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem; /* 为图片之间添加间距 */
-}
+# Bugbyebyebye's GitHub Profile
 
-.text-intro {
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-}
-</style>
+## About Me
+你好，我是Bugbyebyebye 👋  
+我是一位热衷于编程和开源技术的开发者，这里展示了我在GitHub上的活动与贡献。欢迎浏览我的项目并与我交流互动！
 
-<div class="container">
+---
 
-  <!-- 自我介绍部分 -->
-  <div class="text-intro">
-    <h1>您好，我是 Bugbyebyebye 👋</h1>
-    <p>
-      我是一名热爱编程和开源技术的开发者，在这里分享我的学习历程和项目经验。欢迎探索我在 GitHub 上的活动与贡献，也期待与志同道合的朋友交流互动！
-    </p>
-  </div>
+### GitHub 统计
 
-  <!-- GitHub 统计卡片 -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&theme=tokyonight" alt="GitHub 统计" />
-  </div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&theme=tokyonight)](https://github.com/Bugbyebyebye)
 
-  <!-- 连续活跃天数统计卡片 -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye" alt="连续活跃天数统计" />
-  </div>
+### 连续活跃天数统计
 
-  <!-- 使用率最高的编程语言统计卡片 -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="最常用编程语言统计" />
-  </div>
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye)](https://github.com/Bugbyebyebye)
 
-  <!-- 添加其他有趣的插件或者项目链接 -->
-  
-  <!-- 示例：最近提交的项目卡片（如果需要） -->
-  <!-- 注意替换 `repo-name` 为您想展示的仓库名 -->
-  <!-- <a href="https://github.com/Bugbyebyebye/repo-name">
-    <img src="https://shields.io/github/last-commit/Bugbyebyebye/repo-name.svg?style=flat-square&logo=github" alt="最近提交时间" />
-  </a> -->
+### 最常用的编程语言
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/Bugbyebyebye)
 
-<!-- 如果需要更多个性化内容，例如社交媒体链接、荣誉徽章等，可以继续在此处添加 -->
+---
+
+### 更多精彩
+- 您可以在这里放置一些近期参与的有趣项目链接
+- 或者添加一些社交媒体链接和个人荣誉徽章等
+
+<!-- 如果需要添加更多内容，请将其写在这里 -->
