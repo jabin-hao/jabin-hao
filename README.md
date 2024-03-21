@@ -1,8 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Bugbyebyebye?theme=rule34">
 
-<a href="https://git.io/typing-svg">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=31B6F7&center=true&vCenter=true&random=true&width=435&lines=%E9%9B%84%E5%BF%83%E5%8B%83%E5%8B%83%EF%BC%8C%E8%B0%A6%E6%81%AD%E6%B8%A9%E9%80%8A" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31B6F7&vCenter=true&random=true&width=435&lines=%E7%BB%88%E6%9C%89%E6%94%B6%E8%8E%B7%E7%9A%84%E5%AD%A3%E8%8A%82)](https://git.io/typing-svg)
 
 ## 正在学习编程的大学牲一枚
 
