@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&layout=donut&langs_count=6)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emotionalbug)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
