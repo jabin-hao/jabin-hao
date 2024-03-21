@@ -15,9 +15,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye)](https://github.com/Bugbyebyebye)
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=dracula" />
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&layout=compact&langs_count=6)
