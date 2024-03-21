@@ -22,6 +22,8 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+
 ### 更多精彩
 - 您可以在这里放置一些近期参与的有趣项目链接
 - 或者添加一些社交媒体链接和个人荣誉徽章等
