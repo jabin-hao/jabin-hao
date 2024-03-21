@@ -10,8 +10,8 @@
 ### GitHub 统计
 <!-- GitHub数据信息 -->
 <div>
-  <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img style="width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=tokyonight" alt="Streak Stats" />
+  <img style="width:450px" src="https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img style="width: 450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
