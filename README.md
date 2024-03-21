@@ -13,6 +13,8 @@
 <!-- GitHub数据信息 -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&theme=tokyonight)](https://github.com/Bugbyebyebye)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bugbyebyebye&theme=xcode" /> </div>
+
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye)](https://github.com/Bugbyebyebye)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6)
