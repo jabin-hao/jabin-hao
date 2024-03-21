@@ -13,9 +13,7 @@
 <!-- GitHub数据信息 -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&theme=tokyonight)](https://github.com/Bugbyebyebye)
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Bugbyebyebye&theme=minimal" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye)](https://github.com/Bugbyebyebye)
 
