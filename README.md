@@ -1,4 +1,6 @@
-# Bugbyebyebye's GitHub Profile
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
+## 正在学习编程的大学牲一枚
 
 ## About Me
 你好，我是Bugbyebyebye 👋  
