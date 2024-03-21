@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:Bugbyebyebye?theme=rule34">
 
 ## 正在学习编程的大学牲一枚
 
