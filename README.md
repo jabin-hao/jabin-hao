@@ -20,6 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&layout=donut&langs_count=6)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 更多精彩
 - 您可以在这里放置一些近期参与的有趣项目链接
