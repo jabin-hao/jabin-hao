@@ -22,7 +22,11 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<picture>
+  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ### 更多精彩
 - 您可以在这里放置一些近期参与的有趣项目链接
