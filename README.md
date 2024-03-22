@@ -91,7 +91,7 @@
   ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff)
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=%23ffffff)
   ![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=fff)
-  ![Tomcat Badge](https://img.shields.io/badge/ApacheTomcat-%23F8DC75?style=flat&logo=apachetomcat&logoColor=fff)
+  ![Tomacat Badge](https://img.shields.io/badge/ApacheTomcat-%23f7770e?style=flat&logo=apachetomcat&logoColor=fff)
   ![Maven Badge](https://img.shields.io/badge/ApacheMaven-%23C71A36?style=flat&logo=ApacheMaven&logoColor=fff)
   ![Apifox Badge](https://img.shields.io/badge/apifox-%23F44A53?style=flat&logo=apifox&logoColor=fff)
 
