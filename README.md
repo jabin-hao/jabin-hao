@@ -28,8 +28,6 @@
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bugbyebyebye&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /><br>
   </div>
 
-  <div align="center"> <img src="https://metrics.lecoq.io/Bugbyebyebye?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
  <div>&nbsp;</div>
   
   <table>
