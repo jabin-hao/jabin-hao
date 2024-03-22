@@ -16,7 +16,7 @@
   </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -30,6 +30,7 @@
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 </div>
+-->
 
 ### 📃 Recent Blog
 - 暂无
