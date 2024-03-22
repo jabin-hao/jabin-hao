@@ -28,6 +28,8 @@
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bugbyebyebye&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /><br>
   </div>
 
+  <div align="center"> <img src="https://metrics.lecoq.io/Bugbyebyebye?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
  <div>&nbsp;</div>
   
   <table>
@@ -79,33 +81,36 @@
     ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
     ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
     ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-    ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+    ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=fff&style=flat)
     ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
     ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-    ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+    ![Static Badge](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoColor=%23ffffff)
     ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-    ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-    
+
   ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
     ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-    ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
     ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
     ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
     ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-    
+    ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=%23ffffff)
+    ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff)
+    ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+    ![Flask Badge](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=fff)
+
   ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
     ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
     ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
     ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+    ![Idea Badge](https://img.shields.io/badge/Intellij%20Idea-000000?style=flat&logo=intellijidea&logoColor=%23ffffff)
+    ![Goland Badge](https://img.shields.io/badge/Goland-4f55f9?style=flat&logo=goland&logoColor=%23ffffff)
     ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 </div>
 
 ### 🔭 更多精彩
-- 您可以在这里放置一些近期参与的有趣项目链接
-- 或者添加一些社交媒体链接和个人荣誉徽章等
+
 
 <!-- 如果需要添加更多内容，请将其写在这里 -->
 <div>
