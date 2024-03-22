@@ -39,6 +39,16 @@
 
 </td></tr>
 
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+</picture>
+
+<!-- metrics 基础资料 -->
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
