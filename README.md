@@ -39,6 +39,7 @@
 
 </td></tr>
 
+<div align="center">
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=dark&hide_border=true" />
@@ -54,6 +55,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 ### 更多精彩
 - 您可以在这里放置一些近期参与的有趣项目链接
