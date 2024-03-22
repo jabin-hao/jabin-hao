@@ -109,5 +109,5 @@
 
 <!-- 如果需要添加更多内容，请将其写在这里 -->
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+  <img src="https://github.com/Bugbyebyebye/Bugbyebyebye/blob/main/assets/background.png" />
 </div>
