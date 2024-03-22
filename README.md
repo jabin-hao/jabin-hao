@@ -104,11 +104,11 @@
   ![SpringSecurity Badge](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=fff)
   ![Golang Badge](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoColor=%23ffffff)
   ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat&logo=gin&logoColor=fff)
-  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
   ![Kotlin Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=fff)
   ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
+  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
   ![Arduino Badge](https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&logoColor=fff)
   ![Raspberrypi Badge](https://img.shields.io/badge/Raspberrypi-%23A22846?style=flat&logo=raspberrypi&logoColor=fff)
   ![Esp Badge](https://img.shields.io/badge/Espressif-%23E7352C?style=flat&logo=espressif&logoColor=fff)
