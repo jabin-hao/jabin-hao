@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31B6F7&vCenter=true&random=true&width=435&lines=%E7%BB%88%E6%9C%89%E6%94%B6%E8%8E%B7%E7%9A%84%E5%AD%A3%E8%8A%82)](https://git.io/typing-svg)
 
-### About me 正在学习编程的大学牲一枚
+### 🤺 About me 正在学习编程的大学牲一枚
 
 <p>&emsp;&emsp;你好，我是Bugbyebyebye 👋</p>
 <p>&emsp;&emsp;我是一位热衷于编程和开源技术的开发者，这里展示了我在GitHub上的活动与贡献。欢迎浏览我的项目并与我交流互动！</p>
@@ -23,7 +23,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&layout=donut&langs_count=6)
 
-<img src="https://github-readme-stats.vercel.app/api?username={Bugbyebyebye}" />
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bugbyebyebye&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
