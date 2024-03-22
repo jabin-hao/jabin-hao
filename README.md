@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&layout=compact&langs_count=6&hide_border=true" />
   </div>
 
-  </td></tr>
+ <div>&nbsp;</div>
   
   <table>
     <tr>
