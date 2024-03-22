@@ -14,8 +14,8 @@
 ### GitHub 统计
 <!-- GitHub数据信息 -->
 <div>
-  <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6" />
+  <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=Bugbyebyebye&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6&hide_border=true" />
 </div>
 
 <table>
