@@ -8,6 +8,14 @@
 <p>&emsp;&emsp;我是一位热衷于编程和开源技术的开发者，这里展示了我在GitHub上的活动与贡献。欢迎浏览我的项目并与我交流互动！</p>
 <p>&emsp;&emsp;<strong>Hungry and Humble 雄心勃勃但谦恭温逊</strong></p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ### 📃 Recent Blog
 - 暂无
 
@@ -28,9 +36,6 @@
       </picture>
   </tr>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bugbyebyebye&layout=donut&langs_count=6)
 
 ### 📊 WakaTime
 
@@ -58,12 +63,6 @@
 
 <!-- metrics 基础资料 -->
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
