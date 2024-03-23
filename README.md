@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31B6F7&vCenter=true&random=true&width=435&lines=%E7%BB%88%E6%9C%89%E6%94%B6%E8%8E%B7%E7%9A%84%E5%AD%A3%E8%8A%82)](https://git.io/typing-svg)
 
-### 🤺 About me 正在学习编程的大学牲一枚
+### 🤺 About me 计算机科学与技术专业大学牲一枚
 
-<p>&emsp;&emsp;你好，我是Bugbyebyebye 👋</p>
+<p>&emsp;&emsp;你好，我是小郝同学 👋</p>
 <p>&emsp;&emsp;我是一位热衷于编程和开源技术的开发者，这里展示了我在GitHub上的活动与贡献。欢迎浏览我的项目并与我交流互动！</p>
 <p>&emsp;&emsp;<strong>Hungry and Humble 雄心勃勃但谦恭温逊</strong></p>
 
