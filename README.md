@@ -18,6 +18,7 @@
 
 ### 📃 Recent Blog
 - 暂无
+- 欢迎光临我的博客：[https://bugbyebyebye.github.io/](https://bugbyebyebye.github.io/)
 
 ### 📈 GitHub 统计
 <!-- GitHub数据信息 -->
