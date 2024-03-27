@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emotionalbug&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
   </picture>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={Bugbyebyebye}&theme={default}"/>
+  [![]([http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Bugbyebyebye}&theme={default}](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Bugbyebyebye}&theme={default})
 </div>
 
 </td></tr>
