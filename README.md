@@ -24,7 +24,6 @@
 <div align="center">
   <div>
     <img src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/main/profile-summary-card-output/buefy/0-profile-details.svg" />
-    <img src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/main/profile-summary-card-output/buefy/1-repos-per-language.svg" />
   </div>
   
   <div>
