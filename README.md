@@ -44,7 +44,7 @@
 
 ### 📊 WakaTime
 
-<div>
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Emotionalbug&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emotionalbug&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
   </picture>
 
-  [![]([http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Bugbyebyebye}&theme={default}](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Bugbyebyebye}&theme={default})
+   <img src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/main/profile-summary-card-output/buefy/4-productive-time.svg" />
 </div>
 
 </td></tr>
