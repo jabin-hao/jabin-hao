@@ -4,7 +4,7 @@
 
 ### 🤺 About me 计算机科学与技术专业大学牲一枚
 
-<p>&emsp;&emsp;你好，我是小郝同学 👋</p>
+<p>&emsp;&emsp;你好 👋</p>
 <p>&emsp;&emsp;我是一位热衷于编程和开源技术的开发者，这里展示了我在GitHub上的活动与贡献。欢迎浏览我的项目并与我交流互动！</p>
 <p>&emsp;&emsp;<strong>Hungry and Humble 雄心勃勃但谦恭温逊</strong></p>
 
@@ -17,8 +17,7 @@
 </div>
 
 ### 📃 Recent Blog
-- 暂无
-- 欢迎光临我的博客：[https://bugbyebyebye.github.io/](https://bugbyebyebye.github.io/)
+- 欢迎光临我的博客：[[https://bugbyebyebye.github.io/](https://www.emotionalbug.top/)
 
 ### 📈 GitHub 统计
 <!-- GitHub数据信息 -->
