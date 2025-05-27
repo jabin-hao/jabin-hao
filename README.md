@@ -17,7 +17,7 @@
 </div>
 
 ### 📃 Recent Blog
-- 欢迎光临我的博客：[[https://bugbyebyebye.github.io/](https://www.emotionalbug.top/)
+- 欢迎光临我的博客：[https://www.emotionalbug.top/](https://www.emotionalbug.top/)
 
 ### 📈 GitHub 统计
 <!-- GitHub数据信息 -->
