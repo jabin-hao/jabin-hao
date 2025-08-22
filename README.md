@@ -10,9 +10,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jabin-hao/jabin-hao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jabin-hao/jabin-hao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -23,13 +23,13 @@
 <!-- GitHub数据信息 -->
 <div align="center">
   <div>
-    <img src="https://raw.githubusercontent.com/Bugbyebyebye/Bugbyebyebye/main/profile-summary-card-output/buefy/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/profile-summary-card-output/buefy/0-profile-details.svg" />
   </div>
   
   <div>
     <!-- GitHub 数据统计 -->
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bugbyebyebye&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bugbyebyebye&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /><br>
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jabin-hao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jabin-hao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /><br>
   </div>
 
  <div>&nbsp;</div>
@@ -38,9 +38,9 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=xcode&bg_color=FF000000&hide_border=true"/>
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=react&bg_color=FF000000&color=000000&hide_border=true"/>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bugbyebyebye&theme=react&bg_color=FF000000&hide_border=true"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=xcode&bg_color=FF000000&hide_border=true"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=react&bg_color=FF000000&color=000000&hide_border=true"/>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=react&bg_color=FF000000&hide_border=true"/>
         </picture>
     </tr>
   </table>
@@ -70,13 +70,13 @@
 <div align="center">
   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bugbyebyebye&theme=light&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabin-hao&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabin-hao&theme=light&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
   </picture>
   
   <!-- GitHub 奖杯🏆 -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=Bugbyebyebye&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <div><img src="https://github-profile-trophy.vercel.app/?username=jabin-hao&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 </div>
 
 ### 🧠 技能徽章
