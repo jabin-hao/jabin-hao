@@ -19,7 +19,42 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+<table width="100%">
+  <tr valign="top">
+    <td width="50%">
+      <h4><a href="https://github.com/jabin-hao/translator">🌐 Translator</a></h4>
+      <p>开源浏览器翻译插件，使用 React + Ant Design 构建，界面优美，持续维护中</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat">
+        <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat">
+      </p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/jabin-hao/Cmicro-Compiler">⚙️ Cmicro-Compiler</a></h4>
+      <p>使用 Go 语言开发的类 C 语言解释器，涵盖词法分析、语法树构建与执行</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat">
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td colspan="2">
+      <h4><a href="https://github.com/jabin-hao/esp32-monitor">📷 ESP32 Monitor</a></h4>
+      <p>ESP32 远程摄像头监控系统，Python 后端 + Vue 前端 + 嵌入式端全覆盖</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/ESP-E7352C?logo=espressif&logoColor=fff&style=flat">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
   <picture>
@@ -33,33 +68,47 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabin-hao&theme=dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabin-hao&theme=default&hide_border=true">
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jabin-hao&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabin-hao&theme=default&hide_border=true">
   </picture>
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=github-dark&bg_color=FF000000&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=github-light&bg_color=FF000000&hide_border=true">
-    <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=github-light&bg_color=FF000000&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabin-hao&theme=github-light&bg_color=FF000000&hide_border=true" width="100%">
   </picture>
 </div>
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages**
+### 🛠 Core Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+
+<details>
+<summary><b>📦 点击展开全部技术栈 (80+)</b></summary>
+
+<br>
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
@@ -72,8 +121,6 @@
 
 **Full Stack**
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=fff&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
@@ -82,7 +129,6 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat)
@@ -108,8 +154,6 @@
 
 **DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat)
@@ -147,6 +191,20 @@
 ![Apifox](https://img.shields.io/badge/Apifox-F44A53?logo=apifox&logoColor=fff&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat)
+
+</details>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+  <a href="https://emotionalbug.top"><img src="https://img.shields.io/badge/Blog-emotionalbug.top-181717?logo=githubpages&logoColor=fff&style=flat"></a>
+  <a href="mailto:emotionalbug1@gmail.com"><img src="https://img.shields.io/badge/Gmail-emotionalbug1@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat"></a>
+  <a href="https://x.com/CandiceHalsey1"><img src="https://img.shields.io/badge/-CandiceHalsey1-000000?logo=x&logoColor=fff&style=flat"></a>
+  <a href="https://www.linkedin.com/in/jianbin-hao-4267ab387/"><img src="https://img.shields.io/badge/LinkedIn-Jianbin%20Hao-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
+  <a href="https://t.me/Emotionalbug"><img src="https://img.shields.io/badge/Telegram-Emotionalbug-26A5E4?logo=telegram&logoColor=fff&style=flat"></a>
+</div>
 
 ---
 
