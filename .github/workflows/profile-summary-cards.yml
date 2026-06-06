@@ -25,7 +25,7 @@ jobs:
           UTC_OFFSET: 8
           EXCLUDE: ""
           AUTO_PUSH: false
-          THEME: buefy
+          THEME: github
 
       - name: generate-dark-theme
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -37,4 +37,4 @@ jobs:
           UTC_OFFSET: 8
           EXCLUDE: ""
           AUTO_PUSH: true
-          THEME: github_dark
+          THEME: tokyonight
