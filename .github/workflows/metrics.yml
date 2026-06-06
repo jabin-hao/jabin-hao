@@ -65,8 +65,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
-          plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_days: 30
           config_timezone: Asia/Shanghai
 
       # 🏆 Achievements
@@ -81,7 +81,7 @@ jobs:
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: 1
 
       # 📆 Commit calendar
       - name: Full history calendar
