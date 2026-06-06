@@ -61,11 +61,7 @@
     <td><img src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/github-metrics/calendar.full.svg" alt="calendar" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/github-metrics/languages.indepth.svg" alt="languages" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/github-metrics/habits.charts.svg" alt="habits" width="100%"></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/github-metrics/achievements.compact.svg" alt="achievements" width="100%"></td>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/github-metrics/languages.indepth.svg" alt="languages" width="100%"></td>
   </tr>
 </table>
 

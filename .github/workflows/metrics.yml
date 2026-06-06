@@ -57,32 +57,6 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 
-      # 💡 Coding habits
-      - name: Recent activity charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          config_timezone: Asia/Shanghai
-
-      # 🏆 Achievements
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: 1
-
       # 📆 Commit calendar
       - name: Full history calendar
         uses: lowlighter/metrics@latest
