@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/jabin-hao/jabin-hao/main/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
